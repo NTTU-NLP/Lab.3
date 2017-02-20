@@ -4,10 +4,18 @@
 分析規則如下：
 
 * 遇到
-** <DIV>
-** <P>
-** <BR>
-  需換行
+ ```
+ <DIV>
+ ```
+ 、
+ ```
+ <P>
+ ```
+ 或
+ ```
+ <BR>
+ ```
+ 需換行
 * 遇到超連結，需將連結顯示的字串輸出，舉例來說若是
  ```
  <a href="http://forums.au.reachout.com/t5/user/viewprofilepage/user-id/5937">@lanejane</a>
