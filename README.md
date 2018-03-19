@@ -48,3 +48,13 @@ Neg: Things at home are overwhelming me today. I can't even type properly right 
 
 Pos: I'm aware that things are hitting my limit. I am working towards being open with my psych. I am giong to do some relaxation exercises tonight after this, really just try to calm. I'm tryig to focus on the youtube mix I'm listening to right now
 ```
+
+# 計分表
+
+|評分項目|5|4|3|2|1|
+|-|-|-|-|-|-|
+|程式結果正確性||||||
+|程式碼完整性||||||
+|準時繳交||||||
+
+# 分數
